@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shruti",
+      "email": "shruti@gmail.com",
+      "password": "shruti123",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "name": "User3",
+      "email": "user3@gmail.com",
+      "password": "user3123",
+      "role": "user"
+    },
+    {
+      "id": "1742450473223",
+      "name": "user4",
+      "email": "user4@gmail.com",
+      "password": "user4123",
+      "role": "user"
+    },
+    {
+      "id": "1742450556733",
+      "name": "user5",
+      "email": "user5@gmail.com",
+      "password": "user5123",
+      "role": "user"
+    },
+    {
+      "id": "885f",
+      "name": "Admin2",
+      "email": "admin2@gmail.com",
+      "password": "admin2123",
+      "role": "admin"
+    },
+    {
+      "id": "3e86",
+      "name": "swati",
+      "email": "swati@gmail.com",
+      "password": "swati123",
+      "role": "user"
+    }
+  ],
+  "scrumTeams": [
+    {
+      "id": "1742366421017",
+      "name": "Scrum Team B",
+      "tasks": [
+        {
+          "id": 1742366421017,
+          "title": "rtrtgfmgngreg",
+          "description": "csdlkncsdnmcsds cslkdncsldknc sldcksdc",
+          "status": "To Do",
+          "assignedTo": "yoo@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "1742367717384",
+      "name": "Scrum Team C",
+      "tasks": [
+        {
+          "id": 1742367717384,
+          "title": "Complete the overlay part",
+          "description": "csdlkncsdnmcsds cslkdncsldknc sldcksdc sdfsdfsd sdfsdf sdfsdfsdf",
+          "status": "In Progress",
+          "assignedTo": "user3@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "1742369231016",
+      "name": "Scrum Team F",
+      "tasks": [
+        {
+          "id": 1742369231016,
+          "title": "sdfcsdcsd",
+          "description": "dssdfsdfsdf",
+          "status": "To Do",
+          "assignedTo": "user3@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "1742447575775",
+      "name": "Scrum Team C",
+      "tasks": [
+        {
+          "id": 1742447575775,
+          "title": "Complete the profile section",
+          "description": "complete profile section with proper routing and user can view all the necessary information about their task in the section",
+          "status": "To Do",
+          "assignedTo": "user3@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": "1742448685918",
+      "name": "Scrum Team A",
+      "tasks": [
+        {
+          "id": 1742448685918,
+          "title": "Resolve bugs in dashboard component",
+          "description": "There are lot of bugs in dashboard component. Resolve it ASAP!",
+          "status": "To Do",
+          "assignedTo": [
+            "user3@gmail.com",
+            "shruti@gmail.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1742537150474,
+      "name": "Scrum Team D",
+      "tasks": [
+        {
+          "id": 1742537150474,
+          "title": "finding bug",
+          "description": "find the bug from the code",
+          "status": "To Do",
+          "assignedTo": [
+            "swati@gmail.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
